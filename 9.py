@@ -1,3 +1,7 @@
+#Task 1   
+#SIRSS2215  
+#ASHUTOSH KUMAR MISHRA
+
 rows = 5
 k = 2 * rows - 2
 for i in range(rows, -1, -1):
