@@ -1,3 +1,7 @@
+#Task 1   
+#SIRSS2215  
+#ASHUTOSH KUMAR MISHRA
+
 rows = 8
 # rows = int(input("Enter the number of rows "))
 for i in range(1, rows + 1):
