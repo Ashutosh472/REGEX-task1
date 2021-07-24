@@ -1,3 +1,7 @@
+#Task 1   
+#SIRSS2215  
+#ASHUTOSH KUMAR MISHRA
+
 rows = 14
 print("*" * rows, end="\n")
 i = (rows // 2) - 1
