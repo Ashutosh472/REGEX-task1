@@ -1,3 +1,7 @@
+#Task 1   
+#SIRSS2215  
+#ASHUTOSH KUMAR MISHRA
+
 # printing full Triangle pyramid using stars
 size = 7
 m = (2 * size) - 2
