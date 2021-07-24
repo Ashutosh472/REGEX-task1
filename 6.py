@@ -1,3 +1,8 @@
+#Task 1   
+#SIRSS2215  
+#ASHUTOSH KUMAR MISHRA
+
+
 def print_pascal_triangle(size):
     for i in range(0, size):
         for j in range(0, i + 1):
